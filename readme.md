@@ -22,7 +22,7 @@ then generates and opens a webpage displaying each movie and its trailer.
   ```
      pip install requests
   ```  
-  or  
+  <i>or</i>
   ```
      easy_install requests
   ```
@@ -41,7 +41,7 @@ to contain your list of favorite movies.
 
 ### To Run
   Navigate into the project directory and run
-  ```bash
+  ```
      python movie_trailer_site.py
   ```
 
