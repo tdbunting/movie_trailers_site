@@ -19,7 +19,7 @@ then generates and opens a webpage displaying each movie and its trailer.
      git clone https://github.com/tdbunting/random-quote-generator
   ```
 2. Make sure requests module is installed  
-  ``` pip install requests ```<i>or</i> ``` easy_install requests ```
+  ``` pip install requests ``` <i> or </i> ``` easy_install requests ```
 3. Sign up for an API Key at https://www.themoviedb.org/
 4. Either:
 
