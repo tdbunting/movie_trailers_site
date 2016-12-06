@@ -23,11 +23,11 @@ then generates and opens a webpage displaying each movie and its trailer.
 3. Sign up for an API Key at https://www.themoviedb.org/
 4. Either:
 
-  a. Store your api key in an Env Variable as THE_MOVIE_DB_API_KEY
+  a. Store your api key in an Env Variable as <i><b>THE_MOVIE_DB_API_KEY</b></i>
 
   or
 
-  b. Replace tmdb_api_key in config.json with your API KEY
+  b. Replace <i><b>tmdb_api_key</b></i> in <b>config.json</b> with your API KEY
 
 5. If you would like to use this to populate your own favorite movies,
 simply change the <i><b>movies_to_fetch</b></i> list inside of <b>movie_trailer_site.py</b> 
