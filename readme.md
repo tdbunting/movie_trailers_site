@@ -22,7 +22,7 @@ then generates and opens a webpage displaying each movie and its trailer.
 3. Sign up for an API Key at https://www.themoviedb.org/
 4. Either:
 
-  a. Store your api key in an Env Variable as <i><b>THE_MOVIE_DB_API_KEY</b></i>
+  a. Store your api key in an Env Variable as <b>THE_MOVIE_DB_API_KEY</b>
 
   or
 
