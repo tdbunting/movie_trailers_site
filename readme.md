@@ -15,15 +15,15 @@ then generates and opens a webpage displaying each movie and its trailer.
 ### To Setup
 
 1. Clone the repository  
-  ``` bash
+  ```
      git clone https://github.com/tdbunting/random-quote-generator
   ```
 2. Make sure requests module is installed  
-  ```bash
+  ```
      pip install requests
   ```  
   or  
-  ```bash
+  ```
      easy_install requests
   ```
 3. Sign up for an API Key at https://www.themoviedb.org/
