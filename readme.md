@@ -1,5 +1,4 @@
-# tdbunting's Movie Trailers
-  ==========================
+# Tdbunting's Movie Trailers
 
 This script takes a collection of movie title strings,  
 attempts to find movie information and trailer for each movie title provided,   
@@ -12,7 +11,7 @@ then generates and opens a webpage displaying each movie and its trailer.
 - themoviedb.org API Key
 
 
-### To Setup
+### Setup
 
 1. Clone the repository  
   ```
@@ -33,7 +32,7 @@ then generates and opens a webpage displaying each movie and its trailer.
 simply change the <i><b>movies_to_fetch</b></i> list inside of <b>movie_trailer_site.py</b> 
 to contain your list of favorite movies.
 
-### To Run
+### Run
   Navigate into the project directory and run
   ```
      python movie_trailer_site.py
